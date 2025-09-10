@@ -1,6 +1,6 @@
 # DeepLearning-Journey 🧠🚀
 
-Welcome to my comprehensive deep learning journey! This repository contains a curated collection of Jupyter notebooks that document my exploration through the fascinating world of deep learning. Each notebook provides hands-on implementations with detailed explanations, making complex concepts accessible and practical.
+Welcome to my comprehensive deep learning journey! This repository contains a curated collection of Jupyter notebooks that document my exploration through the fascinating world of deep learning. Each notebook is designed to be beginner-friendly, with in-depth explanations and hands-on code examples.
 
 ## 📚 Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to my comprehensive deep learning journey! This repository contains a cu
 
 ## 🎯 Overview
 
-This repository serves as a comprehensive learning resource for deep learning enthusiasts, students, and practitioners. It covers fundamental concepts to advanced architectures, with practical implementations that help strengthen understanding and track learning progress.
+This repository serves as a comprehensive learning resource for deep learning enthusiasts, students, and practitioners. It covers fundamental concepts to advanced architectures, with practical implementations and clear explanations throughout.
 
 ## 📖 Topics Covered
 
@@ -25,6 +25,7 @@ This repository serves as a comprehensive learning resource for deep learning en
 - **Loss Functions**: Mean Squared Error, Cross-Entropy, and custom loss functions
 - **Gradient Descent**: Batch, Stochastic, and Mini-batch implementations
 - **Backpropagation**: Step-by-step mathematical derivations and implementations
+- **Perceptron & Logic Gates**: Implementation of AND, OR, XOR gates using single-layer perceptron, linear separability, XOR limitation, and motivation for MLPs
 
 ### 🏗️ Neural Network Architectures
 - **Convolutional Neural Networks (CNNs)**: Image classification and computer vision
@@ -88,7 +89,8 @@ DeepLearning-Journey/
 │   │   ├── activation_functions.ipynb
 │   │   ├── loss_functions.ipynb
 │   │   ├── gradient_descent.ipynb
-│   │   └── backpropagation.ipynb
+│   │   ├── backpropagation.ipynb
+│   │   └── 02_mathematical_explanation_of_perceptron.ipynb  # Perceptron with Logic Gates: AND, OR, XOR, truth tables, visualization, decision boundaries, and MLP motivation
 │   ├── 02_neural_networks/
 │   │   ├── cnn_image_classification.ipynb
 │   │   ├── rnn_sequence_modeling.ipynb
@@ -108,6 +110,12 @@ DeepLearning-Journey/
 ├── LICENSE
 └── .gitignore
 ```
+
+#### 02_mathematical_explanation_of_perceptron.ipynb
+- Demonstrates perceptron implementation of logic gates (AND, OR, XOR)
+- Shows linear separability and the XOR limitation for single-layer perceptrons
+- Includes truth tables, data visualization, model training, and decision boundary plots
+- Motivates the need for multi-layer neural networks (MLPs)
 
 ## 📋 Usage Guide
 
