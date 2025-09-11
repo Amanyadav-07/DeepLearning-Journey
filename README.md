@@ -93,20 +93,6 @@ DeepLearning-Journey/
 │   │   ├── backpropagation.ipynb
 │   │   ├── Iris_Flower_Classification.ipynb
 │   │   └── 02_mathematical_explanation_of_perceptron.ipynb
-│   ├── 02_neural_networks/
-│   │   ├── cnn_image_classification.ipynb
-│   │   ├── rnn_sequence_modeling.ipynb
-│   │   └── lstm_advanced_sequences.ipynb
-│   ├── 03_advanced_architectures/
-│   │   ├── autoencoders.ipynb
-│   │   ├── gans_generative_modeling.ipynb
-│   │   └── transformers_attention.ipynb
-│   └── datasets/
-│       └── sample_data/
-├── utils/
-│   ├── data_preprocessing.py
-│   ├── model_utils.py
-│   └── visualization.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
