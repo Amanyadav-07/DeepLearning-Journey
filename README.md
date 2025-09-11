@@ -26,6 +26,7 @@ This repository serves as a comprehensive learning resource for deep learning en
 - **Gradient Descent**: Batch, Stochastic, and Mini-batch implementations
 - **Backpropagation**: Step-by-step mathematical derivations and implementations
 - **Perceptron & Logic Gates**: Implementation of AND, OR, XOR gates using single-layer perceptron, linear separability, XOR limitation, and motivation for MLPs
+- **Iris Flower Classification**: Build and evaluate a neural network for the classic Iris dataset.  
 
 ### 🏗️ Neural Network Architectures
 - **Convolutional Neural Networks (CNNs)**: Image classification and computer vision
@@ -90,7 +91,8 @@ DeepLearning-Journey/
 │   │   ├── loss_functions.ipynb
 │   │   ├── gradient_descent.ipynb
 │   │   ├── backpropagation.ipynb
-│   │   └── mathematical_explanation_of_perceptron.ipynb 
+│   │   ├── Iris_Flower_Classification.ipynb
+│   │   └── 02_mathematical_explanation_of_perceptron.ipynb
 │   ├── 02_neural_networks/
 │   │   ├── cnn_image_classification.ipynb
 │   │   ├── rnn_sequence_modeling.ipynb
