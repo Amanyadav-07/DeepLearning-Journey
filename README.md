@@ -90,7 +90,7 @@ DeepLearning-Journey/
 │   │   ├── loss_functions.ipynb
 │   │   ├── gradient_descent.ipynb
 │   │   ├── backpropagation.ipynb
-│   │   └── 02_mathematical_explanation_of_perceptron.ipynb  # Perceptron with Logic Gates: AND, OR, XOR, truth tables, visualization, decision boundaries, and MLP motivation
+│   │   └── mathematical_explanation_of_perceptron.ipynb 
 │   ├── 02_neural_networks/
 │   │   ├── cnn_image_classification.ipynb
 │   │   ├── rnn_sequence_modeling.ipynb
